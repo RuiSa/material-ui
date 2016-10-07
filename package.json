@@ -2,7 +2,7 @@
   "name": "outdare-material-ui",
   "private": false,
   "author": "Call-em-all Engineering Team",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "description": "React Components that Implement Google's Material Design.",
   "main": "./src/index.js",
   "keywords": [
