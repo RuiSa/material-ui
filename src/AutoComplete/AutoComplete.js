@@ -359,7 +359,9 @@ class AutoComplete extends Component {
   }
 
   focus() {
-    this.refs.searchTextField.focus();
+    setTimeout(function(){
+      this.refs.searchTextField.focus();
+    },0)
   }
 
   render() {
